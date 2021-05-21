@@ -6,5 +6,5 @@ laptop = {
   "is_new" => true,
   "is_shiny" => true,
   "applications" => ['atom', 'imovie', 'rescuetime'],
-  "settings" => ['volume', "brightness", "battery power"]
+  "settings" => ['volume', 'brightness', 'battery power']
 }
